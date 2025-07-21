@@ -53,8 +53,15 @@ If you have any questions, collaboration ideas, or just want to connect, feel fr
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifki398&show_icons=true)
-![Rifki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifki398&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifki398&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rifki398&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rifki398&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifki398&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifki398&theme=tokyonight" />
+  </a>
+</p>
+
 

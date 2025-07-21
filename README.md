@@ -41,11 +41,8 @@
 ---
 
 ## 📫 Let's Connect
-
-- 🔗 LinkedIn: [Rifqy Risqullah](https://www.linkedin.com/in/rifqy-risqullah-8119b71b3/)  
-- 📧 Email: `risqullah.rifqy19@gmail.com`  
-- 🌐 Personal Page (if any): `https://rifki398.github.io/`
-<p align="center">
+Contact me at:
+<p align="left">
   <a href="https://www.linkedin.com/in/rifqy-risqullah-8119b71b3/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0007-8807-0087"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
   <a href="https://www.instagram.com/rifqy.nxf/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>

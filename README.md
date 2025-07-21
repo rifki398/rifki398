@@ -1,14 +1,14 @@
 # Hello! 👋 I'm Rifqy
 🎓 I hold a Bachelor's degree in **Physics (Instrumentation)** and a Master's degree in **Control System Engineering**.  
-🚀 I'm passionate about **autonomous systems**, **robotics**, and **control systems research**, especially focused on **Autonomous Underwater Vehicles (AUVs)**.
+🚀 I'm passionate about **autonomous systems**, **robotics**, and **control systems research**, especially focused on **Autonomous Underwater Vehicles (AUVs) Guidance and Control**.
 
 ---
 
 ## 💡 About Me
 
-- 🌊 Currently working on **AUV path tracking** using **Line-of-Sight (LOS)** and **Slip Angle Observer**.
+- 🌊 Currently working on **AUV path tracking** using **Line-of-Sight (LOS)** with **Slip Angle Observer**.
 - 🧠 Exploring intelligent algorithms like **Whale Optimization Algorithm (WOA)** for obstacle avoidance in 3D path planning.
-- 🧰 Experienced in MATLAB, Python, Simulink, and Git for simulation and control system implementation.
+- 🧰 Experienced in MATLAB, Python, Simulink, Gazebo, and ROS for simulation.
 - ✍️ Actively documenting simulations and research in a manual-style book for academic and practical use.
 
 ---
@@ -40,8 +40,8 @@
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rifkineufarion/)  
-- 📧 Email: `your_email@example.com`  
-- 🌐 Personal Page (if any): `https://yourwebsite.com`
+- 📧 Email: `risqullah.rifqy19@gmail.com`  
+- 🌐 Personal Page (if any): `https://rifki398.github.io/`
 
 ---
 

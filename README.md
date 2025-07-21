@@ -53,7 +53,5 @@ If you have any questions, collaboration ideas, or just want to connect, feel fr
 
 ---
 
-![Rifki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifki398&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifki398&layout=compact&theme=tokyonight)
-
-
+![Rifki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifki398&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)

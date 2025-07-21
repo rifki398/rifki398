@@ -35,6 +35,9 @@
 - **Ball and Beam Model Identification**  
   Identifying dynamic models with neural networks.
 
+- **2D Manipulator Robot**
+  Simple control of 2D manipulator robot using PD controller.
+  
 ---
 
 ## 📫 Let's Connect

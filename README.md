@@ -18,28 +18,28 @@
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
 ![Simulink](https://img.shields.io/badge/-Simulink-333?style=flat&logo=mathworks)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![ROS](https://img.shields.io/badge/-ROS-333?style=flat&logo=ros)
+![Gazebo](https://img.shields.io/badge/-Gazebo-333?style=flat&logo=gazebo)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-333?style=flat&logo=latex)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 
 ---
 
 ## 📘 Recent Projects
 
-- **3D Path Tracking for AUV**  
+- **3D Path Tracking and Obstacle Avoidance for AUV**  
   Simulates tracking with LOS + slip angle observer and obstacle avoidance using WOA.
 
-- **Quintic Spline Path Planning**  
-  Generates smooth 3D trajectories between waypoints using quintic polynomials.
+- **Ball and Beam Control**  
+  Comparing control performance of ball and beam system using LQR and pole placement.
 
-- **Digital Twin for Ball and Beam System**  
+- **Ball and Beam Model Identification**  
   Identifying dynamic models with neural networks.
 
 ---
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rifkineufarion/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rifqy-risqullah-8119b71b3/)  
 - 📧 Email: `risqullah.rifqy19@gmail.com`  
 - 🌐 Personal Page (if any): `https://rifki398.github.io/`
 

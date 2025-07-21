@@ -41,7 +41,7 @@
 ---
 
 ## 📫 Let's Connect
-Contact me at:
+If you have any questions, collaboration ideas, or just want to connect, feel free to reach out through the platforms below:
 <p align="left">
   <a href="https://www.linkedin.com/in/rifqy-risqullah-8119b71b3/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0007-8807-0087"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>

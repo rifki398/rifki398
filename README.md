@@ -13,17 +13,6 @@
 
 ---
 
-## 🔧 Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
-![Simulink](https://img.shields.io/badge/-Simulink-333?style=flat&logo=mathworks)
-![ROS](https://img.shields.io/badge/-ROS-333?style=flat&logo=ros)
-![Gazebo](https://img.shields.io/badge/-Gazebo-333?style=flat&logo=gazebo)
-![LaTeX](https://img.shields.io/badge/-LaTeX-333?style=flat&logo=latex)
-
----
-
 ## 📘 Recent Projects
 
 - **3D Path Tracking and Obstacle Avoidance for AUV**  
@@ -50,6 +39,17 @@ If you have any questions, collaboration ideas, or just want to connect, feel fr
   <a href="https://rifki398.github.io" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
+
+---
+
+## 🔧 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
+![Simulink](https://img.shields.io/badge/-Simulink-333?style=flat&logo=mathworks)
+![ROS](https://img.shields.io/badge/-ROS-333?style=flat&logo=ros)
+![Gazebo](https://img.shields.io/badge/-Gazebo-333?style=flat&logo=gazebo)
+![LaTeX](https://img.shields.io/badge/-LaTeX-333?style=flat&logo=latex)
 
 ---
 

@@ -39,7 +39,7 @@
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rifqy-risqullah-8119b71b3/)  
+- 🔗 LinkedIn: [Rifqy Risqullah](https://www.linkedin.com/in/rifqy-risqullah-8119b71b3/)  
 - 📧 Email: `risqullah.rifqy19@gmail.com`  
 - 🌐 Personal Page (if any): `https://rifki398.github.io/`
 

@@ -53,6 +53,4 @@ If you have any questions, collaboration ideas, or just want to connect, feel fr
 
 ---
 
-_“Extraordinary claims require extraordinary evidence.” – Carl Sagan_
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifki398&show_icons=true)

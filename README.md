@@ -14,19 +14,22 @@
 ---
 
 ## 📘 Recent Projects
+**Electronic Projects**
+- [Logic Gate Board (PCB Design)](https://github.com/rifki398/logic-gate-circuit)
+- [LED Flip Flop (PCB Design)](https://github.com/rifki398/flip-flop-led)
+- [Breadboard Power Supply (PCB Design)](https://github.com/rifki398/breadboard-power-supply)
+- [Fingerprint Recognition](https://github.com/rifki398/fingerprint-recognition)
+- [ID Card Recognition](https://github.com/rifki398/id-card-recognition)
+- 
+**Control System**
+- [AUV Path Tracking & Obstacle Avoidance](https://github.com/rifki398/auv-tracking-avoidance)
+- [Simple 2D Robot Arm Manipulator Simulation](https://github.com/rifki398/simple-robot2d-manipulator)
+- [Ball & Beam Control](https://github.com/rifki398/ball-beam-sim)
 
-- **3D Path Tracking and Obstacle Avoidance for AUV**  
-  Simulates tracking with LOS + slip angle observer and obstacle avoidance using WOA.
+**Software Development**
+- [Introduction to C# with Simple Game](https://github.com/rifki398/introduction-csharp)
 
-- **Ball and Beam Control**  
-  Comparing control performance of ball and beam system using LQR and pole placement.
 
-- **Ball and Beam Model Identification**  
-  Identifying dynamic models with neural networks.
-
-- **2D Manipulator Robot**  
-  Simple control of 2D manipulator robot using PD controller.
-  
 ---
 
 ## 📫 Let's Connect

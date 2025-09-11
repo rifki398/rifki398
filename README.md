@@ -13,25 +13,6 @@
 
 ---
 
-## 📘 Recent Projects
-**Electronic Projects**
-- [Logic Gate Board (PCB Design)](https://github.com/rifki398/logic-gate-circuit)
-- [LED Flip Flop (PCB Design)](https://github.com/rifki398/flip-flop-led)
-- [Breadboard Power Supply (PCB Design)](https://github.com/rifki398/breadboard-power-supply)
-- [Fingerprint Recognition](https://github.com/rifki398/fingerprint-recognition)
-- [ID Card Recognition](https://github.com/rifki398/id-card-recognition)
-- 
-**Control System**
-- [AUV Path Tracking & Obstacle Avoidance](https://github.com/rifki398/auv-tracking-avoidance)
-- [Simple 2D Robot Arm Manipulator Simulation](https://github.com/rifki398/simple-robot2d-manipulator)
-- [Ball & Beam Control](https://github.com/rifki398/ball-beam-sim)
-
-**Software Development**
-- [Introduction to C# with Simple Game](https://github.com/rifki398/introduction-csharp)
-
-
----
-
 ## 📫 Let's Connect
 If you have any questions, collaboration ideas, or just want to connect, feel free to reach out through the platforms below:
 <p align="left">
@@ -42,6 +23,24 @@ If you have any questions, collaboration ideas, or just want to connect, feel fr
   <a href="https://rifki398.github.io" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
+
+---
+
+## 📘 Recent Projects
+**Electronic Projects**
+- [Logic Gate Board (PCB Design)](https://github.com/rifki398/logic-gate-circuit)
+- [LED Flip Flop (PCB Design)](https://github.com/rifki398/flip-flop-led)
+- [Breadboard Power Supply (PCB Design)](https://github.com/rifki398/breadboard-power-supply)
+- [Fingerprint Recognition](https://github.com/rifki398/fingerprint-recognition)
+- [ID Card Recognition](https://github.com/rifki398/id-card-recognition)
+
+**Control System**
+- [AUV Path Tracking & Obstacle Avoidance](https://github.com/rifki398/auv-tracking-avoidance)
+- [Simple 2D Robot Arm Manipulator Simulation](https://github.com/rifki398/simple-robot2d-manipulator)
+- [Ball & Beam Control](https://github.com/rifki398/ball-beam-sim)
+
+**Software Development**
+- [Introduction to C# with Simple Game](https://github.com/rifki398/introduction-csharp)
 
 ---
 

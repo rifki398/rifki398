@@ -8,7 +8,7 @@
 
 - 🌊 Currently working on **AUV path tracking** using **Line-of-Sight (LOS)** with **Slip Angle Observer**.
 - 🧠 Exploring intelligent algorithms like **Whale Optimization Algorithm (WOA)** for obstacle avoidance in 3D path planning.
-- 🧰 Experienced in MATLAB, Python, Simulink, Gazebo, and ROS for simulation.
+- 🧰 Experienced in MATLAB, Python, Simulink, and Microcontrollers.
 - ✍️ Actively documenting simulations and research in a manual-style book for academic and practical use.
 
 ---

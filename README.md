@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Rifqy
 🎓 I hold a Bachelor's degree in **Physics (Instrumentation)** and a Master's degree in **Control System Engineering**.  
-🚀 I'm passionate about **autonomous systems**, **robotics**, and **control systems research**, especially focused on **Autonomous Underwater Vehicles (AUVs) Guidance and Control**.
+🚀 I'm passionate about electronics, autonomous systems, robotics, and control systems research. My lastest research focused on **Autonomous Underwater Vehicles (AUVs) Guidance and Control**.
 
 ---
 

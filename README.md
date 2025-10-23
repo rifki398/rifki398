@@ -38,6 +38,7 @@ If you have any questions, collaboration ideas, or just want to connect, feel fr
 - [AUV Path Tracking & Obstacle Avoidance](https://github.com/rifki398/auv-tracking-avoidance)
 - [Simple 2D Robot Arm Manipulator Simulation](https://github.com/rifki398/simple-robot2d-manipulator)
 - [Ball & Beam Control](https://github.com/rifki398/ball-beam-sim)
+- [Ball & Beam System Identification](https://github.com/rifki398/bb-system-identification)
 
 **Software Development**
 - [Automatic E-Signature Assignment](https://github.com/rifki398/automatic-signature)
